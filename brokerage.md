@@ -24,9 +24,9 @@ title: Topstep Brokerage
 
   <!-- LOGO -->
   <tr>
-    <td style="padding:18px 0 6px 0;">
+    <td style="padding:18px 0 16px 0;">
 		<a href="https://www.topstepbrokerage.com" target="_blank">
-      <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/Email%20Signatures/topstep-brokerage-logo.png" alt="Topstep Brokerage" width="200" style="display:block; border:0; height:auto;">
+      <img src="https://1806688.fs1.hubspotusercontent-na1.net/hubfs/1806688/EmailSignatures/topstep-brokerage-logo-2026.png" alt="Topstep Brokerage" width="200" style="display:block; border:0; height:auto;">
 		</a>
     </td>
   </tr>
